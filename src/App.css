@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+}
+body {
+  font-family: 'montseratt', sans-serif;
+}
+
+.app {
+  background-color: #fafafa;
+  height: 100vh;
+}
+.app__header {
+  background-color: white;
+  object-fit: contain;
+  border-bottom: 1px solid lightgrey;
+  padding: 30px;
+}
